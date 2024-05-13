@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #ffee00;
 		font-size: 3.5em;
 	}
 
@@ -2461,7 +2461,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #4a61ca;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2550,7 +2550,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #4a61ca;
 					display: block;
 					padding: 0;
 				}
